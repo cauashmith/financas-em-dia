@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary">#89D89A</color>
+    <color name="brand_on_primary">#00391A</color>
+    <color name="brand_primary_container">#005228</color>
+    <color name="brand_on_primary_container">#A4F4B4</color>
+    <color name="brand_secondary">#B6CCB8</color>
+    <color name="brand_on_secondary">#223526</color>
+    <color name="brand_secondary_container">#384B3B</color>
+    <color name="brand_on_secondary_container">#D2E8D3</color>
+    <color name="brand_tertiary">#A2CEDC</color>
+    <color name="brand_tertiary_container">#214C58</color>
+    <color name="brand_on_tertiary_container">#BEEAF9</color>
+    <color name="brand_background">#101510</color>
+    <color name="brand_on_background">#DFE4DC</color>
+    <color name="brand_surface_variant">#414941</color>
+    <color name="brand_on_surface_variant">#C1C9BE</color>
+    <color name="brand_surface_container_highest">#313631</color>
+</resources>

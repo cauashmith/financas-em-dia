@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Finanças em Dia</string>
+    <string name="action_back">Voltar</string>
+
+    <string name="tips_title">Dicas financeiras</string>
+    <string name="tips_subtitle">Toque em uma dica para ver o passo a passo.</string>
+    <string name="tips_recommendation_banner">Seu maior gasto neste mês foi com %1$s. As dicas sobre esse tema aparecem primeiro.</string>
+    <string name="tip_recommended">Recomendada para você</string>
+    <string name="tip_item_content_description">%1$s. Categoria %2$s. %3$s</string>
+    <string name="tip_detail_title">Dica</string>
+    <string name="tip_not_found">Dica não encontrada.</string>
+    <string name="tip_steps_title">Passo a passo</string>
+    <string name="tip_steps_progress">%1$d de %2$d passos concluídos</string>
+    <string name="tip_all_steps_done">Parabéns! Você concluiu todos os passos.</string>
+    <string name="tip_source">Fonte: %1$s</string>
+
+    <plurals name="reading_time">
+        <item quantity="one">%d minuto de leitura</item>
+        <item quantity="other">%d minutos de leitura</item>
+    </plurals>
+</resources>
